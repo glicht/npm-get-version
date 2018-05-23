@@ -1,0 +1,11 @@
+# package directories
+node_modules
+#dist is only for the package
+dist
+#ignore npm pack output
+npm-get-version*.tgz
+#ignore coverage dir
+coverage
+.nyc_output
+npm-debug.log
+
