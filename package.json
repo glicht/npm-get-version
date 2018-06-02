@@ -5,7 +5,7 @@
   "engines": {
     "node": ">=6.10.0"
   },
-  "description": "Utility to get version of npm package going back N versions from specified tag.",
+  "description": "Utility to get the version of an npm package going back N versions from a specified tag.",
   "main": "dist/lib/index.js",
   "scripts": {
     "clean": "rimraf dist",
