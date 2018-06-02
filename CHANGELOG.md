@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/glicht/npm-get-version/compare/v1.0.0...v1.0.1) (2018-06-02)
+
+
+### Features
+
+* README improvements ([37d57cc](https://github.com/glicht/npm-get-version/commit/37d57cc))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/glicht/npm-get-version/compare/v0.1.2...v1.0.0) (2018-06-02)
 
