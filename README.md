@@ -6,7 +6,7 @@ NPM Get Version
 [![Coverage Status][coveralls-image]][coveralls-url] 
 [![Dependencies Status][david-image]][david-url]
 
-Small utility to get the version of an npm package going back N versions from a specified tag. Can be used via command line or api. Will invoke `npm info` to get package information. Assumes npm executable is available (should be on the PATH). 
+Small utility to get the version of an npm package going back `N` versions from a specified tag. Can be used via command line or api. Will invoke `npm info` to get package information. Assumes npm executable is available (should be on the PATH). 
 
 Command line syntax for specifying desired package and version:
 ```
