@@ -42,8 +42,8 @@ npm install -g npm-get-version
 
 [npm-image]:https://img.shields.io/npm/v/npm-get-version.svg
 [npm-url]:http://npmjs.org/package/npm-get-version
-[travis-image]:https://travis-ci.org/glicht/npm-get-version.svg?branch=master
-[travis-url]:https://travis-ci.org/glicht/npm-get-version
+[travis-image]:https://travis-ci.com/glicht/npm-get-version.svg?branch=master
+[travis-url]:https://travis-ci.com/glicht/npm-get-version
 [david-image]:https://david-dm.org/glicht/npm-get-version/status.svg
 [david-url]:https://david-dm.org/glicht/npm-get-version
 [coveralls-image]:https://coveralls.io/repos/github/glicht/npm-get-version/badge.svg?branch=master
